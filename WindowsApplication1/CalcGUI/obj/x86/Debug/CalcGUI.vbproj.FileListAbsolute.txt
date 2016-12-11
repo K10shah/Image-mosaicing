@@ -1,0 +1,27 @@
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\bin\Debug\CalcGUI.exe
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\bin\Debug\CalcGUI.pdb
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\bin\Debug\CalcGUI.xml
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CalcGUI.MainPage.resources
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CalcGUI.Resources.resources
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CalcGUI.vbproj.GenerateResource.Cache
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CalcGUI.exe
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CalcGUI.xml
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CalcGUI.pdb
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.exe
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.xml
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.pdb
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\bin\Debug\CalcGUI.exe
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\bin\Debug\CalcGUI.pdb
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\bin\Debug\CalcGUI.xml
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.MainPage.resources
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.Resources.resources
+C:\Users\ketan\Desktop\C#game\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.vbproj.GenerateResource.Cache
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.exe
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.xml
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.pdb
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\bin\Debug\CalcGUI.exe
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\bin\Debug\CalcGUI.pdb
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\bin\Debug\CalcGUI.xml
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.MainPage.resources
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.Resources.resources
+C:\Users\ketan\Documents\Visual Studio 2010\Projects\WindowsApplication1\CalcGUI\obj\x86\Debug\CalcGUI.vbproj.GenerateResource.Cache
