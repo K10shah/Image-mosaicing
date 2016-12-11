@@ -1,0 +1,1 @@
+Image_mosaic('C:\Users\ketan\Desktop\ketan_sift\a.jpg','C:\Users\ketan\Desktop\ketan_sift\b.jpg');
